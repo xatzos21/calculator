@@ -4,9 +4,9 @@ x = sys.argv[1]
 y = sys.argv[2]
 a = sys.argv[3]
 
-if a == 1:
+if a == str("a"):
     z = int(x)+int(y)
     print(z)
-elif a == 2:
+elif a == str("s"):
     z = int(x)-int(y)
     print(z)
