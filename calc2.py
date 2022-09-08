@@ -10,3 +10,9 @@ if a == str("a"):
 elif a == str("s"):
     z = int(x)-int(y)
     print(z)
+elif a == str("d"):
+    z = int(x)/int(y)
+    print(z)
+elif a == str("m"):
+    z = int(x)*int(y)
+    print(z)
