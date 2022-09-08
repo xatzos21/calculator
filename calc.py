@@ -1,3 +1,5 @@
+# Task is to create a 2 digit calculator that subtracts/adds 
+
 print("Select operation..")
 print("1) Add  2)Subtract")
 a = int(input("Choose: "))
