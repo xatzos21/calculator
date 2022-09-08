@@ -23,4 +23,3 @@ while b == True:
             break
     else:
         print("Wrong input!")
-
