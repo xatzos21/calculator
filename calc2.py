@@ -1,3 +1,5 @@
+# Task is to create a calculator that works with arguments
+
 import sys
 
 x = sys.argv[1]
